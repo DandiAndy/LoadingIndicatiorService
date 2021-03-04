@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sb+Xscva8BA1GNtW/tNGheCV8Px3mz/J/X2tRte5Sih7EieDKo2knktnO2ccyfhyceJud/qH7aq15LppXwsHrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Breas\\source\\repos\\LIS\\LIS\\LIS.iOS\\LIS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Breas\\.nuget\\packages\\rg.plugins.popup\\2.0.0.10\\rg.plugins.popup.2.0.0.10.nupkg.sha512",
+    "C:\\Users\\Breas\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Breas\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Breas\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Breas\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
